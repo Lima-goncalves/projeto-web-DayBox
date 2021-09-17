@@ -29,9 +29,10 @@ section{
 }
 
 section:nth-child(even){
- 
+    background:rgb(160, 0, 0);
     background-image: url(/projeto-web-DayBox/images/sorriso.jpg);
- 
+    background-color: violet;
+
 }
 
 .sub-heading{

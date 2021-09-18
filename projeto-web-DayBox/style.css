@@ -218,6 +218,7 @@ header .icons #menu-bars{
     background:var(--green);
 }
 
+
 .dishes .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(28rem, 1fr));
@@ -273,6 +274,7 @@ header .icons #menu-bars{
 .dishes .box-container .box img{
     height:17rem;
     margin:1rem 0;
+    
 }
 
 .dishes .box-container .box h3{
